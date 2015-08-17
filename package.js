@@ -1,5 +1,5 @@
 Package.describe({
-	name: 'zhenya:slider',
+	name: 'waeltken:slider',
 	version: '0.0.6',
 	summary: 'Mobile-first, smooth slider component',
 	git: 'https://github.com/zhenyasav/slider',
@@ -8,7 +8,7 @@ Package.describe({
 
 Package.onUse(function(api) {
 
-	api.versionsFrom('1.0');
+	//api.versionsFrom('1.2-rc.4');
 	
 	api.use([
 		'coffeescript',
